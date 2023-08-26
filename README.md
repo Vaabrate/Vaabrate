@@ -54,8 +54,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vaabrate/vaabrate/output/snake.svg" alt="Snake animation" />
-
-###
